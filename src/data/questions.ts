@@ -10,67 +10,67 @@ export const questions: Question[] = [
   {
     id: 1,
     image: "/images/q1.jpg",
-    options: ["Circle", "Square", "Triangle", "Rectangle"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E"],
     correct_answer: 1
   },
   {
     id: 2,
     image: "/images/q2.jpg",
-    options: ["Pattern A", "Pattern B", "Pattern C", "Pattern D"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E"],
     correct_answer: 3
   },
   {
     id: 3,
     image: "/images/q3.jpg",
-    options: ["Option 1", "Option 2", "Option 3", "Option 4"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E"],
     correct_answer: 2
   },
   {
     id: 4,
     image: "/images/q4.jpg",
-    options: ["Choice A", "Choice B", "Choice C", "Choice D"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E", "Answer F"],
     correct_answer: 4
   },
   {
     id: 5,
     image: "/images/q5.jpg",
-    options: ["Answer A", "Answer B", "Answer C", "Answer D"],
-    correct_answer: 2
+    options: ["24", "32", "36", "40"],
+    correct_answer: 3
   },
   {
     id: 6,
     image: "/images/q6.jpg",
-    options: ["Option A", "Option B", "Option C", "Option D"],
+    options: ["5", "8", "10", "12"],
     correct_answer: 1
   },
   {
     id: 7,
     image: "/images/q7.jpg",
-    options: ["Pattern 1", "Pattern 2", "Pattern 3", "Pattern 4"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E"],
     correct_answer: 3
   },
   {
     id: 8,
     image: "/images/q8.jpg",
-    options: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E", "Answer F"],
     correct_answer: 2
   },
   {
     id: 9,
     image: "/images/q9.jpg",
-    options: ["Answer 1", "Answer 2", "Answer 3", "Answer 4"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E"],
     correct_answer: 4
   },
   {
     id: 10,
     image: "/images/q10.jpg",
-    options: ["Option W", "Option X", "Option Y", "Option Z"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E"],
     correct_answer: 1
   },
   {
     id: 11,
     image: "/images/q11.jpg",
-    options: ["Option W", "Option X", "Option Y", "Option Z"],
+    options: ["Answer A", "Answer B", "Answer C", "Answer D", "Answer E", "Answer F"],
     correct_answer: 1
   }
 ];
